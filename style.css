@@ -5,4 +5,24 @@ body {
 #cabecalho {
     position: fixed;
     margin-top: 0px;
+    height: 150px;
+    background-color: green;
+    
+    
+    
+    
+    
+}
+
+#titulo {
+    color: rgb(255, 255, 255);
+    
+}
+
+img {
+    width: 220px;
+    margin-top: 150px;
+}
+#licoes_aprendidas {
+    
 }
