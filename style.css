@@ -3,6 +3,7 @@ body {
     margin: 10px 20px;
     border: 5px;
     padding: 5px 10px;
+    font-family: monospace;
 }
 
 #principal {
@@ -83,7 +84,7 @@ h2 {
 }
 
 .esq {
-    margin-right: px;
+    margin-right: 9px;
 }
 
 #licoes_aprendidas {
@@ -134,7 +135,7 @@ h2 {
     width: 210px;
     height: 210px;
     margin-left: 60%;
-    font-size: 20px;
+    margin-top: 20px;
     padding: 30px;
     border:2px;
     background-color: rgb(247, 248, 197);
